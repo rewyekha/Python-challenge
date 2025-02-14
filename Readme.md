@@ -4,7 +4,7 @@
 Challenge completed by **Reyas Khan**  
 [LinkedIn](https://www.linkedin.com/in/reyas-khan-16640825b/) | [Portfolio](https://rewyekha.github.io/#/home)
 
-## Python Coding Challenge Test
+## [Python Coding Challenge Test()](https://github.com/rewyekha/Python-challenge/blob/8301254fbf7d3406a347ac48b08ca5c469340d0a/Python%20Coding%20challenge%20test/extract_groups.py)
 
 ### Introduction
 Thank you for applying for the role of Automation Specialist at DigitalXC. This challenge evaluates your ability to process and extract meaningful insights from structured data using Python.
@@ -76,7 +76,7 @@ python extract_groups.py
 
 ---
 
-## Full Stack Engineer Coding Challenge
+## [Full Stack Engineer Coding Challenge](https://github.com/rewyekha/Python-challenge/blob/8301254fbf7d3406a347ac48b08ca5c469340d0a/Full%20stack%20Engineer%20Coding%20challenge/secret_santa.py)
 
 ### Secret Santa Game
 
