@@ -2,7 +2,7 @@
 
 ## Author
 Challenge completed by **Reyas Khan**  
-[LinkedIn](#https://www.linkedin.com/in/reyas-khan-16640825b/) | [Portfolio](#https://rewyekha.github.io/#/home)
+[LinkedIn](https://www.linkedin.com/in/reyas-khan-16640825b/) | [Portfolio](https://rewyekha.github.io/#/home)
 
 ## Python Coding Challenge Test
 
