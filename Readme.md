@@ -6,9 +6,6 @@ Challenge completed by **Reyas Khan**
 
 ## [Python Coding Challenge Test()](https://github.com/rewyekha/Python-challenge/blob/8301254fbf7d3406a347ac48b08ca5c469340d0a/Python%20Coding%20challenge%20test/extract_groups.py)
 
-### Introduction
-Thank you for applying for the role of Automation Specialist at DigitalXC. This challenge evaluates your ability to process and extract meaningful insights from structured data using Python.
-
 ### Problem Statement
 You will write a Python program to:
 - Read data from the provided CSV file ("Input-Data.csv").
